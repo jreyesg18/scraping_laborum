@@ -1,6 +1,8 @@
 # Scraper de Ofertas Laborales Laborum
 
-Este proyecto es un script de scraping que utiliza Selenium para extraer ofertas laborales desde el sitio web Laborum.cl. Permite al usuario buscar trabajos según palabras clave específicas y guarda los resultados en un archivo JSON.## Requisitos
+Este proyecto es un script de scraping que utiliza Selenium para extraer ofertas laborales desde el sitio web Laborum.cl. Permite al usuario buscar trabajos según palabras clave específicas y guarda los resultados en un archivo JSON.
+
+## Requisitos
 
 - Python 3.x
 - Selenium
